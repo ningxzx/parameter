@@ -127,7 +127,7 @@ Alias to `dateTime`.
 
 #### id
 
-The `id` type want to match `/^\d+$/` type date string.
+The `id` type want to match `/^\d+$/` type string.
 
 Default `convertType` is `string`.
 
